@@ -1,1 +1,2 @@
-# -pemrograman-mobile-tugas-variabel-dan-typedata
+Nama : Nursan Anur 
+Npm : 07352311123
